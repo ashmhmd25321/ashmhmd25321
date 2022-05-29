@@ -4,7 +4,7 @@
 ![anime-computer](https://user-images.githubusercontent.com/82798263/170852763-7fba9ee2-11fa-47ed-90f0-8d23a99c1549.gif)
 
 
-### 🤵 About Me:
+#### 🤵 About Me:
 
 My desire to study software engineering has come about through my fascination with how the software 
 works on different platforms. I find it interesting how different programming languages are used to 
