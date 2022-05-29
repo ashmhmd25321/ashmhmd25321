@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+My desire to study software engineering has come about through my fascination with how the software 
+works on different platforms. I find it interesting how different programming languages are used to 
+create different software.
+
+- 🔭 I’m currently working on react and spring boot project
+- 🌱 I’m currently learning react
+- 📫 How to reach me: LinkedIn -> Visit https://www.linkedin.com/in/mohomedashfak09823a/
+
+
+
 <!--
 **ashmhmd25321/ashmhmd25321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
