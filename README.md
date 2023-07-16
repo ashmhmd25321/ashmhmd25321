@@ -1,32 +1,22 @@
-### Hi there 👋
+## Hi there, I'm Mohomed Ashfak! 👋
 
+### 🤵 About Me
 
-   ![anime-computer](https://user-images.githubusercontent.com/82798263/170852763-7fba9ee2-11fa-47ed-90f0-8d23a99c1549.gif)
+I am a passionate software engineer with a keen interest in creating innovative solutions. I have a strong foundation in software development and enjoy working on projects that challenge me to learn and grow. I am always eager to explore new technologies and apply them to real-world problems. My goal is to contribute to cutting-edge projects and make a positive impact on the lives of people through technology.
 
+### 🌱 Learning Journey
 
-#### 🤵 About Me:
+I am continuously learning and expanding my skills in various areas of software engineering. Currently, my main focus is on mastering the React framework for front-end development. I am exploring its advanced features and best practices to create efficient and interactive user interfaces. Additionally, I am also enhancing my knowledge of backend development with Laraval and diving deeper into database management systems like MongoDB.
 
-My desire to study software engineering has come about through my fascination with how the software 
-works on different platforms. I find it interesting how different programming languages are used to 
-create different software.
+### 💼 Professional Experience
 
-- 🔭 I’m currently working on react, spring boot and mongodb project
-- 🌱 I’m currently learning react
-- 📫 How to reach me: LinkedIn -> Visit https://www.linkedin.com/in/mohomedashfak09823a/
+I have experience working in agile development environments and collaborating with cross-functional teams. During my previous roles, I have successfully delivered high-quality software solutions and contributed to the entire software development life cycle. I am skilled in programming languages such as Java, JavaScript, and Python, and I am comfortable working with modern development tools and frameworks.
 
+### 📫 Reach Me
 
+- LinkedIn: https://www.linkedin.com/in/mohomedashfak09823a
+- Email: ashfak25321@gmail.com
 
-<!--
-**ashmhmd25321/ashmhmd25321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ⚡ Fun Fact
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+When I'm not coding, you can find me exploring new hiking trails and capturing beautiful moments through my photography hobby. Nature inspires me both in my personal and professional life, and I believe it brings a sense of calmness and creativity to my work.
